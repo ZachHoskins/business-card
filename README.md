@@ -1,5 +1,5 @@
 # Business Card Webpage
-This small contact site was made to be used with my NFC Smart Business Card.
+This small contact site was made to be used with my NFC Smart Business Card. Hosted on Github Pages: https://zachhoskins.github.io/business-card
 
 ## Credits:
 
